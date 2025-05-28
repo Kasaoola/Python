@@ -4,7 +4,7 @@ This repository contains a collection of beginner-to-intermediate level Python p
 
 # Projects Included:
 
-1. Mad Libs Generator
+1. **Mad Libs Generator**
    A fun text game that asks the user for different types of words and inserts them into a story template.
 
 2. Hangman  
